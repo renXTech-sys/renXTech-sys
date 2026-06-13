@@ -19,8 +19,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=renxtech&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=renxtech-sys&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=renxtech&icon=2&color=8)](https://angga.page.gd)
+[![](https://komarev.com/ghpvc/?username=renxtech-sys&icon=2&color=8)](https://angga.page.gd)
 
